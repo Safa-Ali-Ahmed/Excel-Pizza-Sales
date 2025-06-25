@@ -12,7 +12,7 @@ This project showcases how Microsoft Excel can be used to:
 - Organize and clean raw data using **Power Query**
 - Summarize data with **Pivot Tables**
 - Visualize insights using **Charts & Dashboards**
-- Build an interactive and dynamic dashboard for stakeholders
+- Build dashboard for stakeholders
 
 ---
 
