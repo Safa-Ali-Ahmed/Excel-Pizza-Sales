@@ -47,6 +47,8 @@ This project showcases how Microsoft Excel can be used to:
   - Pivot Tables & Charts
   - Slicers & Filters
   - Dashboard Design
+ 
+  - ![Pivot Tables](https://github.com/user-attachments/assets/19e34f7f-490b-4bb7-9fda-d8153e5cb027)
 
 ---
 
@@ -57,8 +59,7 @@ The dashboard includes multiple components:
 - Line, bar, and pie charts
 - Filterable views by category, size, and time
 
-![Pizza Dashboard](./Dashboard%20Pic.PNG)
-![Pivot View](./WhatsApp%20Image%202025-06-09%20at%203.15.56%20PM%20(1).jpeg)
+![Dashboard Pic](https://github.com/user-attachments/assets/33408a36-45f1-4aa9-9503-895d74056843)
 
 ---
 
@@ -90,10 +91,6 @@ This project is ideal for:
 
 ---
 
-## 🙌 Let’s Connect!
+## 🙌 MyLinkedin :
+https://www.linkedin.com/in/safaali-data-analysis/
 
-If you liked this project or want to discuss it further, feel free to connect with me on [LinkedIn](#) or share your feedback!
-
----
-
-> **Note**: All data used in this project is fictional and created for educational purposes.
